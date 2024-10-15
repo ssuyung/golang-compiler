@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "Absyn.C": "cpp",
+        "Printer.C": "cpp",
+        "Parser.C": "cpp",
+        "Lexer.C": "cpp",
+        "Buffer.C": "cpp"
+    }
+}
