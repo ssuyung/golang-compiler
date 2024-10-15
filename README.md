@@ -86,7 +86,7 @@ Our compiler supports many common Go syntax constructs. The legal syntax of our 
 
 We've provided a number of Go code examples that our compiler can successfully compile in our repository. These examples showcase the range of syntactic constructs our compiler supports and provide insight into how they are used within the context of the Go language.
 
-To explore the examples of legal syntax, click [here](https://collaborating.tuhh.de/e16/courses/compiler-construction/ss23/groups/group06/-/tree/main/P4/Tests/Legal).
+To explore the examples of legal syntax, go to `Tests/Legal`
 
 ### Examples of Illegal Syntax
 
@@ -94,4 +94,7 @@ Despite broad support for Go syntax, there are certain code constructs that are 
 
 We've collected several Go code examples that demonstrate such illegal syntax in our repository. These examples highlight the syntax checks implemented in our compiler and the type of mistakes it can help catch to prevent runtime errors.
 
-To explore the examples of illegal syntax, click [here](https://collaborating.tuhh.de/e16/courses/compiler-construction/ss23/groups/group06/-/tree/main/P4/Tests/IllegalSemantic).
+To explore the examples of illegal syntax, go to `Tests/IllegalSyntax` or `Tests/IllegalSemantic`.
+
+# Authors
+This project is a joint effort of Wassim Alkhalil, Zana Gello, and Ssuyung Yeh.
